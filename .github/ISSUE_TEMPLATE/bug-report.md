@@ -1,6 +1,10 @@
 ---
 name: Bug report
 about: Tell us about a problem you are experiencing
+title: ''
+labels: kind/bug
+assignees: ''
+
 ---
 
 **What steps did you take and what happened:**
