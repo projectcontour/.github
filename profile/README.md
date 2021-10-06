@@ -1,5 +1,5 @@
 # Welcome to Contour!
-![Contour is fun at parties!](../../../contour/blob/main/contour.png)
+<img src="../../../contour/blob/main/contour.png" alt="Contour Logo" width="200"/>
 
 Contour is an Ingress controller for Kubernetes that works by deploying the [Envoy proxy](https://www.envoyproxy.io/) as a reverse proxy and load balancer.
 Contour supports dynamic configuration updates out of the box while maintaining a lightweight profile.
